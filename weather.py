@@ -12,7 +12,7 @@
 
 import requests
 
-api_key = 'b9a6630ad755ef9c5da0db994918d545'
+api_key = #removed for upload to github.
 city = 'Orlando'
 
 url = "https://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+api_key+"&units=imperial"
